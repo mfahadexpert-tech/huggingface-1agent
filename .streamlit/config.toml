@@ -1,6 +1,6 @@
 [theme]
 base = "dark"
-primaryColor = "#8B5CF6"
+primaryColor = "#7AA6D7"
 backgroundColor = "#080C18"
 secondaryBackgroundColor = "#12182A"
 textColor = "#F8FAFC"
@@ -10,5 +10,5 @@ buttonRadius = "full"
 showWidgetBorder = true
 
 [theme.sidebar]
-backgroundColor = "#0D1324"
+backgroundColor = "#B2B3B5"
 secondaryBackgroundColor = "#171F34"
