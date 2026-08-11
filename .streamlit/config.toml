@@ -10,5 +10,5 @@ buttonRadius = "full"
 showWidgetBorder = true
 
 [theme.sidebar]
-backgroundColor = "#1d6679"
-secondaryBackgroundColor = "#171F34"
+backgroundColor = "#1d7946"
+secondaryBackgroundColor = "#16cec5"
